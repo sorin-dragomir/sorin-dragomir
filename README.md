@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sorin-dragomir
-- 👀 I’m interested in ReactJS, NodeJS, ExpressJS, NextJS
+- 👀 I’m interested in ReactJS, NodeJS, NextJS, NATS, RabbitMQ, Docker, Kubernetes, MongoDB, PostgreSQL, GCP, AWS
 - 🌱 I’m currently learning what I want
 - 💞️ I’m looking to collaborate on your project
 - 📫 How to reach me ...
